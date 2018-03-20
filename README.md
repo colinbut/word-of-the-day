@@ -1,1 +1,1 @@
-# word-of-the-day
+# Word of the Day (WOTD)
