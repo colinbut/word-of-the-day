@@ -12,4 +12,4 @@ http://localhost:8080/word
 - Java 
 - Maven
 - Spring Boot
-- Tomcat
+- Undertow
